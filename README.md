@@ -1,3 +1,6 @@
+<a href="./README-pt-BR.md">
+<img alt="pt-BR" src="https://img.shields.io/static/v1?label=Portugu%C3%AAs%20BR&message=pt-BR&color=E51C44&labelColor=0A1033">
+</a><br><br>
 👋 Hi,<br><br>
 <b>I'm Felipe Nascimento Alves</b>. I'm Developer Web, APIs and studying Mobile.<br><br>
 💻 Front-end development with <b>Javascript</b>, or using the <b>Jquery</b> library<br>
@@ -6,7 +9,6 @@
 📱 Studying Mobile development with <b>React Native</b><br>
 💾 Database: <b>PostgreSql, Mysql, Firebird</b><br>
 🎓 I am graduated in <b>Information Systems</b><br><br>
-🌱 I'm currently learning React Native, to be able to create mobile solutions<br><br>
 I currently work on the web part of an ERP, but I've worked on parallel projects like these: <a href="http://flpnascimento45.tk/" target="_blank">flpnascimento45.tk</a><br><br>
 <p>
   <img src="https://github.com/flpnascimento45/flpnascimento45/blob/main/php.png" height="35px" width="45px" />
