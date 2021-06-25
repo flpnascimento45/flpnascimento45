@@ -1,3 +1,6 @@
+<a href="./README.md">
+<img alt="EN" src="https://img.shields.io/static/v1?label=English&message=EN&color=E51C44&labelColor=0A1033">
+</a><br><br>
 👋 Olá,<br><br>
 Sou <b>Felipe Nascimento Alves</b>, Desenvolvedor Web, de APIs e estudo desenvolvimento Mobile.<br><br>
 💻 Desenvolvo Front-end com <b>Javascript</b>, ou uso a biblioteca <b>Jquery</b><br>
