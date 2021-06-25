@@ -23,5 +23,7 @@ I currently work on the web part of an ERP, but I've worked on parallel projects
 </p>
 <br>
 <a href="https://www.linkedin.com/in/felipe-nascimento-970667214/">
-  <img src="https://github.com/flpnascimento45/flpnascimento45/blob/main/Linkedin.jpg" />
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Nascimento%20Alves-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-nascimento-970667214/)](https://www.linkedin.com/in/felipe-nascimento-970667214/) 
+  
 </a>
